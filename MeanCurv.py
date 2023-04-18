@@ -3,7 +3,9 @@
 # This code has been written by Ali Asghar HAKAMI ZANJANI at SDU, Odense, Oct. 2020.
 #
 # This code is free, and you can redistribute it or modify it for your research purpose.
-# If you find this code useful for your research please cite [Zanjani et al.; Biophysical Journal; 2023] if at all possible.
+#
+# If you find this code useful for your research please cite [Hakami Zanjani et al., Biophysical Journal (2023),
+# https://doi.org/10.1016/j.bpj.2023.04.002] if at all possible.
 #
 # In this code two-dimensional mean curvature profiles of the surfaces fitted on the upper and
 # lower leaflets, and the surface passing through the center of a bilayer membrane,
